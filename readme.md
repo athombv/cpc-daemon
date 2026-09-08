@@ -1,5 +1,5 @@
 > [!WARNING]
-> **This fork is deprecated and will be archived.**
+> **This fork is deprecated and archived.**
 > `athombv/cpc-daemon` only ever added a build script on top of upstream and carried no
 > functional changes. Consume [`SiliconLabs/cpc-daemon`](https://github.com/SiliconLabs/cpc-daemon)
 > directly instead; `athombv/homey-pro-multiprotocol` now points its submodule at upstream and
