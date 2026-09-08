@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This fork is deprecated and archived.**
+> `athombv/cpc-daemon` only ever added a build script on top of upstream and carried no
+> functional changes. Consume [`SiliconLabs/cpc-daemon`](https://github.com/SiliconLabs/cpc-daemon)
+> directly instead; `athombv/homey-pro-multiprotocol` now points its submodule at upstream and
+> builds cpcd via its own `scripts/build-cpc-daemon.sh`. Do not open new PRs here.
+
 # Co-Processor Communication Daemon (CPCd)
 ## Overview
 The Co-Processor Daemon (CPCd) enables users to have multiple stack protocols
